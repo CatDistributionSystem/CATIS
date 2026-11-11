@@ -3,7 +3,7 @@
 ## Description fondamentale du Système de Distribution des Chats
 
 **Identifiant du document :** CDS-DOC-001  
-**Révision :** 0.1  
+**Révision :** 7e65.4  
 **Statut :** Approuvé  
 **Langue de référence :** Anglais  
 **Langue de la présente édition :** Français  
