@@ -3,7 +3,7 @@
 ## Terminology and Definitions
 
 **Document ID:** CDS-DOC-002  
-**Revision:** 0.1  
+**Revision:** 7e65.4  
 **Status:** Approved  
 **Master language:** English  
 **Subject:** Terminology used in the Cat Distribution System (CDS) and CATIS documentation
