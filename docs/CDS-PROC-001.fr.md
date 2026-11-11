@@ -3,7 +3,7 @@
 ## Procédure d’évaluation des candidats
 
 **Identifiant du document :** CDS-PROC-001  
-**Révision :** 0.1  
+**Révision :** 7e65.4  
 **Statut :** Approuvé  
 **Langue maîtresse :** anglais  
 **Objet :** Principes généraux d’évaluation des candidats à l’attribution d’un chat
