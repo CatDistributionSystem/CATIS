@@ -3,7 +3,7 @@
 ## Procedimiento de evaluación de candidatos
 
 **Identificador del documento:** CDS-PROC-001  
-**Revisión:** 0.1  
+**Revisión:** 7e65.4  
 **Estado:** Aprobado  
 **Idioma maestro:** inglés  
 **Asunto:** Principios generales para la evaluación de candidatos a la asignación de un gato
