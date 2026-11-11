@@ -3,7 +3,7 @@
 ## Candidate Assessment Procedure
 
 **Document ID:** CDS-PROC-001  
-**Revision:** 0.1  
+**Revision:** 7e65.4  
 **Status:** Approved  
 **Master language:** English  
 **Subject:** General principles for the assessment of candidates for cat allocation
