@@ -3,7 +3,7 @@
 ## Descripción fundamental del Sistema de Distribución de Gatos
 
 **Identificador del documento:** CDS-DOC-001  
-**Revisión:** 0.1  
+**Revisión:** 7e65.4  
 **Estado:** Aprobado  
 **Idioma maestro:** Inglés  
 **Idioma de esta edición:** Español  
