@@ -3,7 +3,7 @@
 ## Descripción general de la plataforma tecnológica CATIS
 
 **Identificador del documento:** CATIS-TECH-001  
-**Revisión:** 0.1  
+**Revisión:** 7e65.4  
 **Estado:** Aprobado  
 **Idioma maestro:** Inglés  
 **Idioma de esta edición:** Español  
