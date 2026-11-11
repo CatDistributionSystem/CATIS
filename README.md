@@ -8,6 +8,19 @@ CATIS and CDS are distinct: CDS is the System; CATIS is its supporting technolog
 
 The Cat Distribution System (CDS) is an independent system that determines the patterns governing the appearance of cats in people's lives and coordinates their allocation processes, taking into account individual circumstances and suitable conditions.
 
+## Official Languages
+
+The Cat Distribution System (CDS) recognises the six official languages of the United Nations:
+
+- English
+- French
+- Spanish
+- Russian
+- Chinese
+- Arabic
+
+English is the controlling language for international documentation. Official editions in the other five languages are maintained as parallel versions.
+
 ## About this repository
 
 This repository is the project repository for CATIS. It will contain documentation and, as they are defined, the specifications and other materials relating to the platform.
