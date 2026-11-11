@@ -3,7 +3,7 @@
 ## Terminología y definiciones
 
 **Identificador del documento:** CDS-DOC-002  
-**Revisión:** 0.1  
+**Revisión:** 7e65.4  
 **Estado:** Aprobado  
 **Idioma maestro:** Inglés  
 **Idioma de esta edición:** Español  
