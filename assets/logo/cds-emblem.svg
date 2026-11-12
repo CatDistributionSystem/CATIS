@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 900" role="img" aria-labelledby="title desc">
+<title id="title">Cat Distribution System emblem</title>
+<desc id="desc">A serene cat beneath a star field, surrounded by orbital rings, with the CDS name and motto.</desc>
+<defs>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5dfa0"/><stop offset=".5" stop-color="#c99b4e"/><stop offset="1" stop-color="#f1d48b"/></linearGradient>
+  <linearGradient id="ivory" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fffdf4"/><stop offset="1" stop-color="#cbd8e4"/></linearGradient>
+  <radialGradient id="night"><stop stop-color="#17304c"/><stop offset="1" stop-color="#071426"/></radialGradient>
+</defs>
+<circle cx="400" cy="365" r="310" fill="url(#night)" stroke="url(#gold)" stroke-width="5"/>
+<circle cx="400" cy="365" r="294" fill="none" stroke="#d9b66f" stroke-width="1.5" opacity=".8"/>
+<g fill="#f8e8bd">
+  <path d="M400 92l4 12 12 4-12 4-4 12-4-12-12-4 12-4z"/>
+  <circle cx="285" cy="150" r="3"/><circle cx="510" cy="160" r="2.5"/><circle cx="210" cy="300" r="2.5"/><circle cx="590" cy="290" r="3"/>
+  <path d="M520 220l3 9 9 3-9 3-3 9-3-9-9-3 9-3z"/>
+  <path d="M270 245l3 9 9 3-9 3-3 9-3-9-9-3 9-3z"/>
+</g>
+<ellipse cx="405" cy="370" rx="250" ry="95" fill="none" stroke="url(#gold)" stroke-width="7" transform="rotate(-16 405 370)"/>
+<circle cx="630" cy="300" r="19" fill="url(#gold)"/>
+<g fill="url(#ivory)" stroke="#d9e2e9" stroke-width="2" stroke-linejoin="round">
+  <path d="M278 540c-12-70-2-140 25-198l14-144 93 74 89-72 13 151c37 57 51 124 44 189-12 93-80 151-164 151-84 0-98-65-114-151z"/>
+  <path d="M318 235l7-105 69 79z" fill="#dce6ed"/>
+  <path d="M481 209l12-105 60 93z" fill="#dce6ed"/>
+  <path d="M323 399c31-46 78-68 132-62 35 4 63 22 84 52-28-12-53-13-77-3-33 13-49 42-55 83-5 34 2 66 18 98-38-12-69-37-89-75-18-34-22-65-13-93z" fill="#0b1b30" stroke="none"/>
+</g>
+<path d="M352 285c20-20 45-27 73-20M453 267c17-5 34-2 49 8" fill="none" stroke="#152a42" stroke-width="7" stroke-linecap="round"/>
+<path d="M415 320c13 10 28 10 41 0" fill="none" stroke="#152a42" stroke-width="5" stroke-linecap="round"/>
+<g fill="none" stroke="#152a42" stroke-width="3" stroke-linecap="round">
+  <path d="M410 327l-75-8m75 8l-68 18m68-18l-67 42"/>
+  <path d="M455 327l73-9m-73 9l69 18m-69-18l68 42"/>
+</g>
+<text x="400" y="72" fill="#f5e6c3" font-family="Georgia,serif" font-size="24" letter-spacing="5" text-anchor="middle">CAT DISTRIBUTION SYSTEM</text>
+<path d="M145 690h510" stroke="url(#gold)" stroke-width="2"/>
+<text x="400" y="790" fill="url(#ivory)" font-family="Georgia,serif" font-size="112" letter-spacing="14" text-anchor="middle">CDS</text>
+<path d="M175 815h170m110 0h170" stroke="url(#gold)" stroke-width="2"/>
+<path d="M400 800l9 15-9 15-9-15z" fill="url(#gold)"/>
+<text x="400" y="850" fill="#f2e5c8" font-family="Arial,sans-serif" font-size="17" letter-spacing="3" text-anchor="middle">SERVICE TO THE UNIVERSE</text>
+<text x="400" y="878" fill="#d7e0e8" font-family="Arial,sans-serif" font-size="15" letter-spacing="1.5" text-anchor="middle">RANDOMNESS IS NOT EXCLUDED</text>
+</svg>
