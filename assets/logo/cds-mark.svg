@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="t">
+<title id="t">CDS emblem mark</title>
+<defs><radialGradient id="n"><stop stop-color="#193652"/><stop offset="1" stop-color="#071426"/></radialGradient><linearGradient id="g"><stop stop-color="#f3dfa8"/><stop offset="1" stop-color="#c89a4b"/></linearGradient></defs>
+<circle cx="64" cy="64" r="59" fill="url(#n)" stroke="url(#g)" stroke-width="3"/>
+<circle cx="64" cy="64" r="53" fill="none" stroke="#d9b66f" stroke-width="1"/>
+<g fill="#f7e8c5"><circle cx="35" cy="32" r="2"/><circle cx="91" cy="29" r="2"/><path d="M64 15l3 8 8 3-8 3-3 8-3-8-8-3 8-3z"/></g>
+<ellipse cx="66" cy="68" rx="48" ry="18" fill="none" stroke="url(#g)" stroke-width="3" transform="rotate(-18 66 68)"/>
+<path d="M37 98c-5-22-2-42 7-58l2-25 19 17 20-17 2 26c12 17 15 37 11 57-4 16-17 24-33 24S41 113 37 98z" fill="#f5f1e8"/>
+<path d="M47 39l2-17 12 13zm28-4l12-13 2 18z" fill="#cbd8e4"/>
+<path d="M53 61q11-9 22 0m-18 9q7 6 14 0" fill="none" stroke="#10243a" stroke-width="3" stroke-linecap="round"/>
+<path d="M57 73l-19 2m19-2l-17 9m31-9l19-2m-19 2l17 9" stroke="#10243a" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+</svg>
