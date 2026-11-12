@@ -1,5 +1,9 @@
 # CATIS
 
+<p align="center">
+  <img src="assets/logo/cds-emblem.svg" alt="Cat Distribution System — CDS emblem" width="360">
+</p>
+
 **Cat Allocation & Tracking Information System (CATIS)** is the technological platform supporting the **Cat Distribution System (CDS)**.
 
 CATIS and CDS are distinct: CDS is the System; CATIS is its supporting technological platform.
@@ -7,6 +11,10 @@ CATIS and CDS are distinct: CDS is the System; CATIS is its supporting technolog
 ## The Cat Distribution System (CDS)
 
 The Cat Distribution System (CDS) is an independent system that determines the patterns governing the appearance of cats in people's lives and coordinates their allocation processes, taking into account individual circumstances and suitable conditions.
+
+**Motto:** *Service to the universe. Randomness is not excluded.*
+
+The CDS emblem is maintained in English as the international master artwork. A compact emblem mark is available for smaller interface and document uses.
 
 ## Official Languages
 
