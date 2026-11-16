@@ -35,8 +35,13 @@ The following documents are maintained in all six official languages. English is
 | [CDS-DOC-002](docs/CDS-DOC-002.en.md) | Terminology and Definitions |
 | [CDS-PROC-001](docs/CDS-PROC-001.en.md) | Candidate Assessment Procedure |
 | [CDS-REG-001](docs/CDS-REG-001.en.md) | System Notices and Administrative Communications |
+| [CDS-REG-002](docs/CDS-REG-002.en.md) | Register of Restricted Documentation |
 
-Parallel language editions are available in the `.ru.md`, `.es.md`, `.fr.md`, `.zh.md`, and `.ar.md` files for each document.
+Parallel language editions are available in the `.ru.md`, `.es.md`, `.fr.md`, `.zh.md`, and `.ar.md` files for each public document.
+
+## Restricted Documentation
+
+The [Register of Restricted Documentation](docs/CDS-REG-002.en.md) identifies records whose titles or details are not available for public inspection. Restricted document files in this repository contain only the applicable access statement.
 
 ## About this repository
 
