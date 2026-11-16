@@ -40,6 +40,8 @@ The following documents are maintained in all six official languages. English is
 | [CDS-OPS-002](docs/CDS-OPS-002.en.md) | Response to a Human in Distress |
 | [CDS-OPS-003](docs/CDS-OPS-003.en.md) | Emergency Escalation Procedure |
 | [CDS-OPS-004](docs/CDS-OPS-004.en.md) | Monitoring and Follow-up of Assistance Outcomes |
+| [CDS-OPS-005](docs/CDS-OPS-005.md) | Title withheld | Restricted — details withheld |
+| [CDS-OPS-006](docs/CDS-OPS-006.md) | Title withheld | Restricted — details withheld |
 
 Parallel language editions are available in the `.ru.md`, `.es.md`, `.fr.md`, `.zh.md`, and `.ar.md` files for each public document.
 
