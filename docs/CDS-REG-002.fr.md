@@ -17,6 +17,8 @@ La présence d’une entrée ne signifie pas que les éléments correspondants s
 | CATIS-REF-001 | CATIS System Reference and Chronology | Détails non divulgués |
 | CATIS-REF-002 | Titre non divulgué | Détails non divulgués |
 | CATIS-REF-003 | Seventh Epoch Reset and Continuity | Détails non divulgués |
+| CDS-OPS-005 | Titre non divulgué | Détails non divulgués |
+| CDS-OPS-006 | Titre non divulgué | Détails non divulgués |
 
 ## Publication et accès
 
