@@ -17,6 +17,8 @@ La inclusión de una entrada no implica que el material correspondiente se encue
 | CATIS-REF-001 | CATIS System Reference and Chronology | Detalles no divulgados |
 | CATIS-REF-002 | Título no divulgado | Detalles no divulgados |
 | CATIS-REF-003 | Seventh Epoch Reset and Continuity | Detalles no divulgados |
+| CDS-OPS-005 | Título no divulgado | Detalles no divulgados |
+| CDS-OPS-006 | Título no divulgado | Detalles no divulgados |
 
 ## Publicación y acceso
 
