@@ -30,12 +30,12 @@ The following documents are maintained in all six official languages. English is
 
 | Document | Title |
 |---|---|
+| **CDS-DOC — General Documentation** | |
 | [CDS-DOC-001](docs/CDS-DOC-001.en.md) | Foundational Description |
-| [CATIS-TECH-001](docs/CATIS-TECH-001.en.md) | CATIS Technical Platform Overview |
 | [CDS-DOC-002](docs/CDS-DOC-002.en.md) | Terminology and Definitions |
-| [CDS-PROC-001](docs/CDS-PROC-001.en.md) | Candidate Assessment Procedure |
-| [CDS-REG-001](docs/CDS-REG-001.en.md) | System Notices and Administrative Communications |
-| [CDS-REG-002](docs/CDS-REG-002.en.md) | Register of Restricted Documentation |
+| **CATIS-TECH — Technical Documentation** | |
+| [CATIS-TECH-001](docs/CATIS-TECH-001.en.md) | CATIS Technical Platform Overview |
+| **CDS-OPS — Operational Procedures** | |
 | [CDS-OPS-001](docs/CDS-OPS-001.en.md) | Response to a Cat in Distress |
 | [CDS-OPS-002](docs/CDS-OPS-002.en.md) | Response to a Human in Distress |
 | [CDS-OPS-003](docs/CDS-OPS-003.en.md) | Emergency Escalation Procedure |
@@ -45,6 +45,11 @@ The following documents are maintained in all six official languages. English is
 | [CDS-OPS-007](docs/CDS-OPS-007.en.md) | Individual Allocation Case Handling |
 | [CDS-OPS-008](docs/CDS-OPS-008.en.md) | Recording Observed System Manifestations |
 | [CDS-OPS-009](docs/CDS-OPS-009.en.md) | Preparation and Issuance of System Communications |
+| **CDS-PROC — Procedures** | |
+| [CDS-PROC-001](docs/CDS-PROC-001.en.md) | Candidate Assessment Procedure |
+| **CDS-REG — Registers** | |
+| [CDS-REG-001](docs/CDS-REG-001.en.md) | System Notices and Administrative Communications |
+| [CDS-REG-002](docs/CDS-REG-002.en.md) | Register of Restricted Documentation |
 
 Parallel language editions are available in the `.ru.md`, `.es.md`, `.fr.md`, `.zh.md`, and `.ar.md` files for each public document.
 
