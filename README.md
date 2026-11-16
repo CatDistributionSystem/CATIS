@@ -38,6 +38,7 @@ The following documents are maintained in all six official languages. English is
 | [CDS-REG-002](docs/CDS-REG-002.en.md) | Register of Restricted Documentation |
 | [CDS-OPS-001](docs/CDS-OPS-001.en.md) | Response to a Cat in Distress |
 | [CDS-OPS-002](docs/CDS-OPS-002.en.md) | Response to a Human in Distress |
+| [CDS-OPS-003](docs/CDS-OPS-003.en.md) | Emergency Escalation Procedure |
 
 Parallel language editions are available in the `.ru.md`, `.es.md`, `.fr.md`, `.zh.md`, and `.ar.md` files for each public document.
 
