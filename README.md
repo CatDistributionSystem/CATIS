@@ -43,6 +43,7 @@ The following documents are maintained in all six official languages. English is
 | [CDS-OPS-005](docs/CDS-OPS-005.md) | Title withheld | Restricted — details withheld |
 | [CDS-OPS-006](docs/CDS-OPS-006.md) | Title withheld | Restricted — details withheld |
 | [CDS-OPS-007](docs/CDS-OPS-007.en.md) | Individual Allocation Case Handling |
+| [CDS-OPS-008](docs/CDS-OPS-008.en.md) | Recording Observed System Manifestations |
 
 Parallel language editions are available in the `.ru.md`, `.es.md`, `.fr.md`, `.zh.md`, and `.ar.md` files for each public document.
 
