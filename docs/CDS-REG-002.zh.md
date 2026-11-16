@@ -17,6 +17,8 @@
 | CATIS-REF-001 | CATIS System Reference and Chronology | 详情不予披露 |
 | CATIS-REF-002 | 标题不予披露 | 详情不予披露 |
 | CATIS-REF-003 | Seventh Epoch Reset and Continuity | 详情不予披露 |
+| CDS-OPS-005 | 标题不予披露 | 详情不予披露 |
+| CDS-OPS-006 | 标题不予披露 | 详情不予披露 |
 
 ## 发布与访问
 
