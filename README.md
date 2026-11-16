@@ -36,6 +36,7 @@ The following documents are maintained in all six official languages. English is
 | [CDS-PROC-001](docs/CDS-PROC-001.en.md) | Candidate Assessment Procedure |
 | [CDS-REG-001](docs/CDS-REG-001.en.md) | System Notices and Administrative Communications |
 | [CDS-REG-002](docs/CDS-REG-002.en.md) | Register of Restricted Documentation |
+| [CDS-OPS-001](docs/CDS-OPS-001.en.md) | Response to a Cat in Distress |
 
 Parallel language editions are available in the `.ru.md`, `.es.md`, `.fr.md`, `.zh.md`, and `.ar.md` files for each public document.
 
