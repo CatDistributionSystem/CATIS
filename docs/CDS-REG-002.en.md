@@ -17,6 +17,8 @@ The inclusion of an entry does not imply that its underlying material is maintai
 | CATIS-REF-001 | CATIS System Reference and Chronology | Details withheld |
 | CATIS-REF-002 | Title withheld | Details withheld |
 | CATIS-REF-003 | Seventh Epoch Reset and Continuity | Details withheld |
+| CDS-OPS-005 | Title withheld | Details withheld |
+| CDS-OPS-006 | Title withheld | Details withheld |
 
 ## Publication and access
 
